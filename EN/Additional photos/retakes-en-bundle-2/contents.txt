@@ -1,0 +1,10 @@
+Row 9: 12630092 Create a project from a template - Image 2: Use a template dialog on 2424 with 2385 picked, start date 17 Nov 2026, Public holidays + Logo ticked (not copied)
+Row 14: 12630330 Project settings - Inline image 1: 2385's card with the three-dot menu open and a red arrow from the dots to Edit settings
+Row 15: 15054654 Public holiday calendar - Image 2: Add public holidays dialog for Holidays in The United Kingdom on 2385 (not added)
+Row 16: 12630329 Deleting, archiving, and restoring projects - Image 3: 2383's card with the three-dot menu circled and an arrow to Archive
+Row 57: 12630342 Project dashboard - Image 3: 2385's card with Actual 38.3% / Expected 41.4% / Delayed
+Row 18: 12630131 Connect tasks across projects - Image 6: Tasks are successfully connected dialog with Open [2385 - 12 Moss Lane...] (real connection, 2385 -> 2383 Laying roofing felt)
+Row 19: 15067835 Link to another project - Image 2: Link project dialog on 2385 with 2383 picked (not linked)
+Row 20: 15067835 Link to another project - Image 9: Tree of Nord House portfolio (41%) with one of its houses, 2390 (32%), underneath
+Row 21: 15067835 Link to another project - Inline image 1: 2385's card labelled 'without linked project' (Actual 38.3% / Expected 41.4%)
+Row 22: 15067835 Link to another project - Inline image 2: Nord House portfolio's card labelled 'with linked project' (Actual 41.3% / Expected 43.7%)

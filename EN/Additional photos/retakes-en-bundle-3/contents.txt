@@ -1,0 +1,11 @@
+Row 10: 12630294 Import a CSV/Excel file - Image 6: task panel of 2385 'Making the house weathertight' with its Description open and boxed
+Row 11: 12630294 Import a CSV/Excel file - Image 10: task panel of 2385 'Tiling' with Working week open (M-F)
+Row 12: 12630294 Import a CSV/Excel file - Image 11: Working week row showing M W S S (shown in the browser only; no task has this week)
+Row 13: 12630294 Import a CSV/Excel file - Image 12: Working week row showing W T F S S (shown in the browser only)
+Row 23: 12630324 Edit individual tasks - Inline image 1: full task panel of 2385 'Internal plastering and screeding' with all sections open
+Row 44: 12630291 Actual start and end dates - Inline image 1: 2385 'Blowing in loft insulation' with actual start 16 Nov picked, end empty, arrow to the tick (not saved)
+Row 45: 16861062 Audit trail - Inline image 1: task panel of 2385 'Making the house weathertight' with Show details boxed and an arrow
+Row 46: 16861062 Audit trail - Inline image 2: the same task's attachments and audit trail with details shown
+Row 30: 12630322 Milestones - Inline image 1: progress update of the milestone 2385 'Delivery of fitted furniture', Mark as completed off
+Row 31: 12630322 Milestones - Inline image 2: the same with MARKED AS COMPLETE switched on (not sent)
+Still to come: Row 24, 14286947 Reimport a Primavera file - Image 7 (needs actual dates on a task; question sent)

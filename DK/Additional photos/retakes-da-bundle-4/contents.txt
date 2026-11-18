@@ -1,0 +1,11 @@
+Danish retakes, bundle 4 (5 images). Master data as Peter, Danish UI, 1385 - Mosevej 12.
+Folder = help-centre article; file name = the image's place in the Danish article.
+
+Row 34: 12630129 Custom fields - image-01: Projektindstillinger > Brugerdefinerede felter (circled), "Samlet antal arbejdstimer brugt" being edited with Fritekst, arrows to the name and the tick. NOTE: the Danish article has 5 images, not 6 like the English, so the plan's "Image 3/4" for Danish are images 1 and 3 there (image 4 in Danish is the Download menu, which needs no retake).
+Row 35: 12630129 Custom fields - image-03: "Klargøring af VVS" with Brugerdefinerede felter (1) = 2 and Revisionsspor: "ændret til 6", then "ændret 6 -> 2".
+Row 38: 16802987 Create teams - image-04: "Flyt person til et andet team" with the drop-down open on the new team "Underentreprenører" (the list shows only teams the person isn't in).
+Row 42: 15070364 Bulk update progress - image-08: Revisionsspor entry "Status opdateret til 0%" with comment and photo.
+Row 58: 12630313 (Danish only) Genåbn en godkendt aktivitet - image-01: "Montering af rottespærre" GODKENDT 100 % with the "Genåbn aktivitet" tooltip (only hovered).
+
+Writes on 1385 (all logged, as agreed for the English ones): the custom field "Samlet antal arbejdstimer brugt" + its value 6 -> 2 on "Klargøring af VVS"; the team "Underentreprenører"; a 0 % progress report with comment + photo on "Montering af lofter".
+Not done yet: rows 25-27 (Excel screenshot) and 47 (Cross Project PDF bug).

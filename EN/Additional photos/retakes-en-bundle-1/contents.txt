@@ -1,0 +1,9 @@
+Row 1: 12630137 Personal settings - Image 3: Your profile > User settings tab (email preferences) with the tab boxed red
+Row 2: 12630137 Personal settings - Image 5: Your profile > Change password tab with the tab boxed red
+Row 54: 15030460 Email when someone report a problem - Image 4: Your profile > User settings with 'Problems on tasks in projects I manage' boxed red
+Row 55: 12630098 Daily summary email - Image 2: Your profile > User settings with the daily summary options boxed red
+Row 56: 15070596 Next week's tasks email - Image 3: Your profile > User settings with 'Next week's tasks sent every Friday' boxed red
+Row 4: 13717321 Company members - Image 3: Add new members to this company dialog with one email entered and Member selected
+Row 5: 13716272 Custom company calendar - Image 2: Customise the company calendar: country holiday drop-down open and boxed red
+Row 6: 13716272 Custom company calendar - Inline image 1: Customise the company calendar: Calendar toggle circled red; a date range selected
+Row 7: 13716272 Custom company calendar - Inline image 2: Customise the company calendar: List toggle circled red; list of non-working days

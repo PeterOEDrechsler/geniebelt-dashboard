@@ -1,0 +1,7 @@
+Danish retakes, bundle 5 (3 images). Master data as Peter, Danish UI, 1385 - Mosevej 12, with Peter's own Excel export of 1385 (Excel on the web, 18 Nov, after "Klargøring af VVS" got its actual end date) laid over the Gantt beside the task details panel.
+Folder = help-centre article; file name = the image's place in the Danish article.
+Excel's menus in the screenshot were English, so the Excel window shows the sheet only (column letters, row 1 and rows 39-46). Excel's green highlight on row 43 (the cell selected in the export) is removed.
+
+Row 25: 12981903 Reimport a CSV-Excel file - image-12: columns A-I with row 42 "Klargøring af VVS" boxed red, and a red arrow from its assigned email (vvs+1@testmail.gb4.io) to the assignee Lars Rasmussen in the task's panel.
+Row 26: 12981903 Reimport a CSV-Excel file - image-18: columns M-P with a red arrow from the actual start date of "Klargøring af VVS" (2026-11-10) to Faktiske datoer 10. nov. 2026 in its panel.
+Row 27: 12981903 Reimport a CSV-Excel file - image-19: the same, with the arrow from the actual end date (2026-11-11) to 11. nov. 2026.

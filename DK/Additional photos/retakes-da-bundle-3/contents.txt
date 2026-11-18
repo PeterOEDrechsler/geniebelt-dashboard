@@ -1,0 +1,13 @@
+Danish retakes, bundle 3 (10 images). Master data as Peter, Danish UI, 1385 - Mosevej 12. Nothing saved.
+Folder = help-centre article; file name = the image's place in the Danish article.
+
+Row 11: 12630294 Import a CSV-Excel file - image-10: "Lægning af fliser" panel with Arbejdsuge M-F.
+Row 12: 12630294 Import a CSV-Excel file - image-11: Arbejdsuge with M O L S (shown in my browser only, as in the English).
+Row 13: 12630294 Import a CSV-Excel file - image-12: Arbejdsuge with O T F L S (same).
+Row 44: 12630291 Actual start and end dates - image-02: "Indblæsning af isolering" with Faktiske datoer start 16. nov. 2026, end empty, red arrow to the tick (not clicked).
+Row 45: 16861062 Audit trail - inline-image-01: "Lukning af hus" panel with Vis detaljer boxed red and an arrow.
+Row 46: 16861062 Audit trail - inline-image-02: the same task with the details shown: Statusvedhæftninger (photos) and the detailed Revisionsspor.
+Row 33: 12630320 Tags - inline-image-02: 2 Valgte aktiviteter (Færdiggørelse af elinstallationer + VVS) with the tag "el 2 slut" picked and Gem ændringer.
+Row 40: 15070364 Bulk update progress - image-02: 6 Valgte aktiviteter with the Opdater status choices.
+Row 41: 15070364 Bulk update progress - image-07: 5 Valgte aktiviteter at 0 % with a comment, a photo and the note about all selected tasks.
+Row 43: 15070364 Bulk update progress - image-09: 2 milestones (Levering af inventar, Levering af døre og lister) with Markér som afsluttet.

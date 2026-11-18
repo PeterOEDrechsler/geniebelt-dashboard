@@ -1,0 +1,17 @@
+English retakes, bundle 5 (10 images). Master data as Peter, English UI, project 2385 - 12 Moss Lane.
+Folder = help-centre article; file name = the image's place in the article.
+
+Row 28: 12981903 Reimport a CSV-Excel file - image-23: "File import failed" dialog over the 2385 Gantt ("Something makes file unreadable therefore unsuitable for import"). A real failed reimport of an unreadable Excel file; nothing in the project changed.
+Row 34: 12630129 Custom fields - image-03: Project settings > Custom fields, "Custom field 1" being edited: "Total working hours spent on task", Free text selected, with the delete, cancel and confirm (tick) buttons.
+Row 35: 12630129 Custom fields - image-04: "Plumbing first fix" panel with Custom fields (1) open (Total working hours spent on task = 2) and the audit trail in detail: "changed to 6", then "changed 6 -> 2". (Field created and set on master as agreed.)
+Row 38: 16802987 Create teams - image-04: "Move person to a different team" dialog with the team drop-down open. The 2.0 drop-down lists only the teams the person is not already in, so it shows the new second team "Subcontractors" (made on 2385 as agreed) and not the Project team.
+Row 48: 12630299 Project overview - inline-image-04: task panel captioned "Activated status update" (caption written in the name box in my browser only), status update open with an unsent comment, red arrow to the progress slider.
+Row 49: 12630299 Project overview - inline-image-05: task panel captioned "Did not activate status update panel", a comment typed in the plain comment box (Add comment), the status and progress bar crossed out in red.
+Row 50: 14889895 Download a periodic project report - inline-image-11: same image as row 48.
+Row 51: 14889895 Download a periodic project report - inline-image-12: same image as row 49.
+Row 52: 15070487 Download a task status report - inline-image-01: same image as row 48.
+Row 53: 15070487 Download a task status report - inline-image-02: same image as row 49.
+
+Not in this bundle:
+- Rows 25-27 (Reimport a Primavera file, Excel images): need an English Excel screenshot of 2385's Download Excel with the actual start/end columns.
+- Row 47 (Cross Project PDF print preview): held until the preview bug is fixed (see Discord).

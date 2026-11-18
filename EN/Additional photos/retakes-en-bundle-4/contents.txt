@@ -1,0 +1,14 @@
+English retakes, bundle 4 (11 images). Master data as Peter, English UI, project 2385 - 12 Moss Lane unless noted.
+Folder = help-centre article; file name = the image's place in the article.
+
+Row 24: 14286947 Reimport a Primavera file - image-07: "Plumbing first fix" panel with Actual dates (9 Nov 2026 -> 11 Nov 2026 = 3 days) and Status DELAYED 85 % boxed red. English dates now. (Actual dates written on master as agreed.)
+Row 29: 12630091 Duplicate tasks and milestones - image-02: "Duplicate a task" dialog for "Setting up the site cabin", all options ticked.
+Row 32: 12630320 Tags - inline-image-01: 2 Selected tasks, Add tags list open (company tags 1. groundworks, 10. carp. doors - trims, ...).
+Row 33: 12630320 Tags - inline-image-02: 2 Selected tasks with tag "elec 2 second fix" added and Save changes.
+Row 36: 12630326 Assign people to tasks - image-05: Cross Project view "10. Internal joinery": one task ticked (boxed red) and the Assignees field in its side panel boxed red. Red boxes instead of the old arrows.
+Row 37: 12630326 Assign people to tasks - image-06: same view with two tasks ticked (boxed red), "2 Selected tasks" and Add assignees boxed red.
+Row 39: 16845276 Mention someone or a team in a comment - image-01: "Fitting plasterboard ceilings" panel, @ typed in the comment, mention list (Project teams: Project team; Project participants) boxed red. Demo emails only.
+Row 40: 15070364 Bulk update progress - image-02: 5 Selected tasks (3 of 20 days = 13 %) with the Update progress icon row.
+Row 41: 15070364 Bulk update progress - image-07: 5 Selected tasks: slider at 0 %, comment "The boards came late. We start on Monday.", attachment weathertight.jpg, the note about all selected tasks being updated, Save changes.
+Row 42: 15070364 Bulk update progress - image-08: Audit trail entry "Progress updated to 0%" with that comment and photo. (A new 0 % report on "Fitting plasterboard ceilings" on master, as agreed in Q5.)
+Row 43: 15070364 Bulk update progress - image-09: 2 Selected tasks (milestones): Mark as completed toggle.

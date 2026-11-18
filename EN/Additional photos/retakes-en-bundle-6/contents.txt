@@ -1,0 +1,6 @@
+English retakes, bundle 6 (3 images). Master data as Peter, English UI, project 2385 - 12 Moss Lane, with Peter's own Excel export of 2385 (Excel on the web, 18 Nov) laid over the Gantt beside the task details panel.
+Folder = help-centre article; file name = the image's place in the article.
+
+Row 25: 12981903 Reimport a CSV-Excel file - image-12: the Excel window (columns A-I, rows 43-49) with row 45 "Fitting plasterboard ceilings" boxed red, and a red arrow from its assigned email (tomrer+2@testmail.gb4.io) to the assignee Peter Andersen in the task's panel. Row 42 isn't used here because its assigned email cell shows Peter's own email address. The formula bar is left out because its name box showed the cell selected in the export (Y42).
+Row 26: 12981903 Reimport a CSV-Excel file - image-18: the Excel window's right part (columns M-P) with a red arrow from the actual start date of "Plumbing first fix" (2026-11-09) to Actual dates 9 Nov 2026 in its panel.
+Row 27: 12981903 Reimport a CSV-Excel file - image-19: the same, with the arrow from the actual end date (2026-11-11) to 11 Nov 2026.

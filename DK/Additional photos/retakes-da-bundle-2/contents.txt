@@ -1,0 +1,14 @@
+Danish retakes, bundle 2 (11 images). Master data as Peter, Danish UI, Nordhus: 1385 - Mosevej 12 and 1383 - Pilealléen 25.
+Folder = help-centre article; file name = the image's place in the Danish article.
+
+Row 14: 12630330 Project settings - inline-image-01: 1385 card with its menu open (Rediger indstillinger / Brug som skabelon / Arkiver / Slet), red arrow from the dots to Rediger indstillinger.
+Row 16: 12630329 Deleting, archiving, and restoring projects - image-04: 1383 card with the dots circled red and an arrow to Arkiver.
+Row 17: 12630329 Deleting, archiving, and restoring projects - image-02: "Er du sikker på at du vil slette projektet?" with "Ja, jeg er sikker." ticked (opened from 1383's menu, cancelled; nothing deleted).
+Row 57: 12630342 Project dashboard - image-03: 1385 card with Aktuel / Forventet and Bagud.
+Row 21: 15067835 Link to another project - inline-image-01: 1385 card labelled "Uden projektlink".
+Row 22: 15067835 Link to another project - inline-image-02: Nordhus portfolio card labelled "Med projektlink".
+Row 9: 12630092 Create a project from a template - image-02: "Brug en skabelon" with 1385 picked (not copied).
+Row 15: 15054654 Public holiday calendar - image-02: "Tilføj helligdage" for Helligdage i Danmark (inkl. uge 29 og 30) on 1385 (cancelled; 1385 keeps its calendar).
+Row 19: 15067835 Link to another project - image-02: "Link projekt" on 1385 with 1383 picked (not added).
+Row 20: 15067835 Link to another project - image-09: tree with Nordhus portfolio (36 %) and one of its houses, 1393 (29 %).
+Row 18: 12630131 Connect tasks across projects - image-06: "Aktiviteter er blevet koblet" with the "Åbn [1385 - Mosevej 12 ...]" button. Write on master as agreed (Q1): 1385 "Lægning af tagpap" is now connected to 1383 "Lægning af tagpap", and stays connected.
